@@ -1,0 +1,7 @@
+pairID,subset,Object,ObjectFile,ObjectAltFile,Condition,Scene,SceneFilename
+2,1,window,window.jpg,,C,skyscraper,skyscraper1.jpg
+5,1,paint can,paint_can_exemplar1.jpg,,N,empty room,emptyroom1.jpg
+4,1,moth,moth_exemplar1.jpg,,I,igloo,igloo1.jpg
+6,1,taxi,taxi_exemplar1.jpg,taxi_exemplar2.jpg,N,nascar,nascar_2.jpg
+3,1,microwave,microwave.jpg,,I,outerspace,outerspace3.jpg
+1,1,dinosaur,dinosaur_exemplar1.jpg,dinosaur_exemplar2.jpg,C,rainforest,rainforest.jpg
